@@ -39,16 +39,7 @@ The **Money Donation System** allows an admin to:
 1. Admin logs in
 2. Admin adds a new donor and a campaign
 3. Admin records a donation transaction
-4. Admin generates the monthly report
-
-## 📊 Report Example
-
-The report includes:
-- Donor Name
-- Campaign Title
-- Donation Amount
-- Date of Donation
-- Monthly Summary Totals
+4. generates the report of each campaigns total donations
 
 ## 📌 Project Status
 
